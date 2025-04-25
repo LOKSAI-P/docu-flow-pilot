@@ -1,0 +1,26 @@
+
+# Core dependencies
+fastapi>=0.95.0
+uvicorn>=0.21.1
+pydantic>=1.10.7
+python-multipart>=0.0.6
+requests>=2.28.2
+
+# Search Assistant dependencies
+faiss-cpu>=1.7.4
+sentence-transformers>=2.2.2
+transformers>=4.28.1
+torch>=2.0.0
+
+# Data Generator dependencies
+Faker>=18.3.1
+Jinja2>=3.1.2
+
+# Meeting Summarizer dependencies
+markdown>=3.4.3
+
+# NFR Assistant dependencies
+PyYAML>=6.0
+python-docx>=0.8.11
+fpdf>=1.7.2
+beautifulsoup4>=4.11.2
